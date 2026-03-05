@@ -17,7 +17,7 @@ from googletrans import Translator
 
 st.title("Aplicación de Comunicación para Nómadas Digitales")
 st.subheader("Si disfrutas de trabajar en cualquier lugar del mundo, el idioma ya no será una restricción.")
-
+st.text("Presiona escuchar para ingresar la información de audio.")
 
 image = Image.open('descarga (12).jpg')
 
