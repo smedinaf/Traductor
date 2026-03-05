@@ -15,8 +15,8 @@ from gtts import gTTS
 from googletrans import Translator
 
 
-st.title("Aplicación de Traducción Para Tus Viajes")
-st.subheader("El idioma no será nunca más un impedimento para tus aventuras, solo toma una foto del texto que quieres traducir.")
+st.title("Aplicación de Comunicación para Nómadas Digitales")
+st.subheader("Si disfrutas de trabajar en cualquier lugar del mundo, el idioma ya no será una restricción.")
 
 
 image = Image.open('descarga (12).jpg')
